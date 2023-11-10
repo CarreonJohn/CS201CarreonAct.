@@ -1,0 +1,10 @@
+const favSingers = ["Lana del Rey", "Doja Cat", "The Weeknd"];
+console.log(favSingers);
+const favNumbers = [3, 5, 6, 7];
+console.log(favNumbers);
+const mixedArr = ["string", ["otherarray"], 123, true];
+console.log(favSingers[0]); // Lana del Rey
+console.log(favSingers[1]); // Doja Cat
+console.log(favSingers[2]); // The Weeknd
+console.log(favNumbers[1]); // 5
+console.log(mixedArr[3]); // true
